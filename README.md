@@ -1,6 +1,6 @@
 객체의 멤버 호출
-
-
+,
+,
 class Cat{
 private:// 접근 속성
 int Weight;// 멤버 변수
