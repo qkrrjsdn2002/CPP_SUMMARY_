@@ -1,6 +1,6 @@
 객체의 멤버 호출
-,
-,
+!
+!
 class Cat{
 private:// 접근 속성
 int Weight;// 멤버 변수
@@ -10,8 +10,8 @@ int getWeight();// 멤버 함수
 Cat Marry, *pNavi;// 객체
 Marry.getWeight();// 일반객체가 멤버변수나 함수에 점근하기 위해 [클래스.멤버함수] 와 같은 형태를 취함
 pNavi->getWeight();//포인터 객체가 멤버변수나 함수에 점근하기 위해 [클래스->멤버함수] 와 같은 형태를 취함
-
-
+!
+!
 배열
 
 
